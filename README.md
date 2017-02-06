@@ -5,6 +5,8 @@
 
 https://arxiv.org/pdf/1609.06268.pdf
 
+https://arxiv.org/pdf/1611.01578v1.pdf
+
 https://medium.com/@atduskgreg/power-to-the-people-how-one-unknown-group-of-researchers-holds-the-key-to-using-ai-to-solve-real-cc9e75b1f334#.g2ceq0qtc
 
 https://gist.github.com/atduskgreg/22a13a9e2b66e7dde34bd687f39d29d9
