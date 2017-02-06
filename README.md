@@ -3,6 +3,10 @@
 
 ## Papers
 
+http://colah.github.io
+
+http://colah.github.io/posts/2015-01-Visualizing-Representations/
+
 https://arxiv.org/pdf/1609.06268.pdf
 
 https://arxiv.org/pdf/1611.01578v1.pdf
