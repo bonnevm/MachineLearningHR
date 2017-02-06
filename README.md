@@ -29,6 +29,8 @@ https://www.slideshare.net/mobile/LuminaryLabs/hype-vs-reality-the-ai-explainer
 
 ## Courses
 
+http://cs231n.stanford.edu/syllabus.html
+
 https://www.edx.org/course/machine-learning-columbiax-csmm-102x
  
 http://www.fast.ai
