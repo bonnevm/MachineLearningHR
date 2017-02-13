@@ -50,6 +50,8 @@ https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
 ## Tools
 
 https://keras.io
+https://www.ibm.com/watson/developercloud/doc/alchemylanguage/
+
 
 
 
