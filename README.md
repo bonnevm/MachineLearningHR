@@ -3,6 +3,8 @@
 
 ## Papers
 
+https://medium.com/intuitionmachine/the-two-paths-from-natural-language-processing-to-artificial-intelligence-d5384ddbfc18#.d2l00ld9z
+
 http://colah.github.io
 
 http://colah.github.io/posts/2015-01-Visualizing-Representations/
