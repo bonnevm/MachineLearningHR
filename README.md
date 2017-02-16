@@ -3,6 +3,14 @@
 
 ## Papers
 
+CareerMapper: An Automated Resume Evaluation Tool https://arxiv.org/pdf/1611.05339.pdf
+
+A Novel Approach for Learning How to Automatically Match Job Offers and Candidate Profiles https://arxiv.org/pdf/1611.04931.pdf
+
+Profile Analyst: Advanced Job Candidate Matching via Automatic Skills Linking: https://arxiv.org/pdf/1608.06379.pdf
+
+Data-driven HR Résumé Analysis Based on Natural Language Processing and Machine Learning https://arxiv.org/pdf/1606.05611.pdf
+
 https://medium.com/intuitionmachine/the-two-paths-from-natural-language-processing-to-artificial-intelligence-d5384ddbfc18#.d2l00ld9z
 
 http://colah.github.io
@@ -27,7 +35,13 @@ A Survey of Collaborative Filtering Techniques
 
 https://hal.inria.fr/hal-01378589/file/gcai_schmitt.pdf
 
+## Word Embedding
+Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings https://arxiv.org/pdf/1607.06520.pdf
 
+Quantifying and Reducing Stereotypes in Word Embeddings https://arxiv.org/pdf/1606.06121.pdf
+
+
+Semantics derived automatically from language corpora necessarily contain human biases https://arxiv.org/pdf/1608.07187.pdf
 
 ## Info
 https://www.slideshare.net/mobile/LuminaryLabs/hype-vs-reality-the-ai-explainer
