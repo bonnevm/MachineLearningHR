@@ -29,7 +29,7 @@ http://colah.github.io/posts/2015-01-Visualizing-Representations/
 
 https://hal.inria.fr/hal-01378589/file/gcai_schmitt.pdf
 
-http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7479487
+A Survey of Collaborative Filtering-Based Recommender Systems for Mobile Internet Applications http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7479487
 
 A Survey of Collaborative Filtering Techniques
 
