@@ -46,6 +46,8 @@ Semantics derived automatically from language corpora necessarily contain human 
 ## Info
 https://www.slideshare.net/mobile/LuminaryLabs/hype-vs-reality-the-ai-explainer
 
+https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md
+
 
 ## Courses
 
