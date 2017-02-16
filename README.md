@@ -51,6 +51,8 @@ https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md
 
 ## Courses
 
+https://github.com/ZuzooVn/machine-learning-for-software-engineers#practical-books
+
 http://ufldl.stanford.edu/tutorial/
 
 http://cs231n.stanford.edu/syllabus.html
