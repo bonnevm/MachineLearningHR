@@ -36,6 +36,16 @@ A Survey of Collaborative Filtering Techniques
 https://hal.inria.fr/hal-01378589/file/gcai_schmitt.pdf
 
 ## Word Embedding
+Word2Vec Tutorial - The Skip-Gram Model
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+Word2Vec Tutorial Part 2 - Negative Sampling
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+
+Word2Vec Resources
+http://mccormickml.com/2016/04/27/word2vec-resources/
+
+
 Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings https://arxiv.org/pdf/1607.06520.pdf
 
 Quantifying and Reducing Stereotypes in Word Embeddings https://arxiv.org/pdf/1606.06121.pdf
