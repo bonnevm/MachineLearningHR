@@ -36,6 +36,10 @@ A Survey of Collaborative Filtering Techniques
 https://hal.inria.fr/hal-01378589/file/gcai_schmitt.pdf
 
 ## Word Embedding
+
+How to Generate a Good Word Embedding?
+https://arxiv.org/pdf/1507.05523.pdf
+
 Word2Vec Tutorial - The Skip-Gram Model
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
