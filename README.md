@@ -37,6 +37,9 @@ https://hal.inria.fr/hal-01378589/file/gcai_schmitt.pdf
 
 ## Word Embedding
 
+Not All Neural Embeddings are Born Equal
+https://arxiv.org/pdf/1410.0718.pdf
+
 How to Train Good Word Embeddings for Biomedical NLP
 http://aclweb.org/anthology/W/W16/W16-2922.pdf
 
