@@ -60,6 +60,11 @@ Quantifying and Reducing Stereotypes in Word Embeddings https://arxiv.org/pdf/16
 
 Semantics derived automatically from language corpora necessarily contain human biases https://arxiv.org/pdf/1608.07187.pdf
 
+## HR Job - ResumeMatching
+
+Machine Learned Resume-Job Matching Solution
+https://pdfs.semanticscholar.org/4662/d5e27d2a82d4cc8e5101658db933b78d3ae8.pdf
+
 ## Info
 https://www.slideshare.net/mobile/LuminaryLabs/hype-vs-reality-the-ai-explainer
 
