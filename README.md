@@ -3,6 +3,9 @@
 
 ## Papers
 
+A fuzzy model for competency-based employee evaluation and selection
+http://fulltext.study/download/1135815.pdf
+
 CareerMapper: An Automated Resume Evaluation Tool https://arxiv.org/pdf/1611.05339.pdf
 
 A Novel Approach for Learning How to Automatically Match Job Offers and Candidate Profiles https://arxiv.org/pdf/1611.04931.pdf
