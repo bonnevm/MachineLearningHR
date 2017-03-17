@@ -2,9 +2,10 @@ version: '2'
 
 services:
   jupyter:
-    build: .
+    image: "bonnevm/machine-learning-base"
     ports:
       - "8888:8888"
     volumes:
       - ../notebooks:/home/icebaby/notebooks
-
+      - ../notebooks/nltk_data:/home/icebaby/nltk_data
+      - ..:/mydata
