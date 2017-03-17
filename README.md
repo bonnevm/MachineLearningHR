@@ -1,22 +1,5 @@
 # MachineLearningHR
 
-## Running Jupyter
-
-```
-docker run -d -p 8888:8888 -v /Users/bonnevm/PersoProjet/MachineLearningHR/notebooks:/home/ds/notebooks dataquestio/python3-starter
-```
-Go in the browser at: localhost:8888
-
-
-## OLD JUPYTER
-```
-docker run -v /Users/bonnevm/PersoProjet/MachineLearningHR/notebooks:/opt/notebooks -i -t -p 8888:8888 myanaconda /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888 --no-browser"
-```
-
-
-
-
-
 ## Papers
 
 A fuzzy model for competency-based employee evaluation and selection
