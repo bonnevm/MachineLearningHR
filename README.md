@@ -1,5 +1,10 @@
 # MachineLearningHR
 
+## Running Jupyter
+```
+cd docker
+./run_jupyter.sh
+```
 ## Papers
 
 A fuzzy model for competency-based employee evaluation and selection
